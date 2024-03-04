@@ -1,1 +1,1 @@
-# Diabetes-Prediction_hmx
+# Diabetes_Prediction_hmx
